@@ -1,4 +1,4 @@
-Hi, I'm @madole. 
+# Hi, I'm @madole. 
 
 I make stuff. Random stuff, useful stuff, useless stuff but I make it.
 
@@ -7,7 +7,7 @@ and anything else to get a job done.
 
 These days it mostly has a geospatial focus.
 
-You can find my site at https://madole.dev
+You can find my website at https://madole.xyz
 
 Some of my projects include:
 
