@@ -11,7 +11,7 @@ You can find my site at https://madole.dev
 
 Some of my projects include:
 
-- Fuel Charts - [https://fuel-charts.madole.dev/](https://fuel-charts.madole.dev/)
+- Fuel Charts (alpha) - [https://fuel-charts.madole.dev/](https://fuel-charts.madole.dev/)
 - Layered Earth - [https://layered.earth](https://layered.earth)
 - Bbox Util - [https://bbox-util.madole.dev/](https://bbox-util.madole.dev/)
 - ArcGIS MapServer Explorer - [https://arcgis-mapserver-explorer.madole.dev/](https://arcgis-mapserver-explorer.madole.dev/)
