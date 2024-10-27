@@ -11,6 +11,7 @@ You can find my website at https://madole.xyz
 
 Some of my projects include:
 
+- Recipe Deguffer - [https://recipe-deguffer.madole.fun/](https://recipe-deguffer.madole.fun/)
 - Fuel Charts (alpha) - [https://fuel-charts.madole.dev/](https://fuel-charts.madole.dev/)
 - Layered Earth - [https://layered.earth](https://layered.earth)
 - Bbox Util - [https://bbox-util.madole.dev/](https://bbox-util.madole.dev/)
